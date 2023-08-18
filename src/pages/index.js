@@ -22,7 +22,7 @@ export default function Home() {
       <Section>
         <Container>
           <h1 className={styles.title}>
-            Next.js Leaflet Starter
+            Next.js Leaflet Starter test from gratten
           </h1>
 
           <Map className={styles.homeMap} width="800" height="400" center={DEFAULT_CENTER} zoom={12}>
